@@ -9,6 +9,11 @@ Any dead cell with exactly three live neighbors becomes a live cell, as if by re
 ## Demo
 ![](https://github.com/Louis24/Life_Game/blob/master/Gospers_glider_gun.gif)
 
+
+
+
+
+
 ## Usage
 Input a 2D matrix M
 Output a 2D matrix X
